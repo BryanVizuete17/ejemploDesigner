@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2019",
+	"moduleId": "MMQET",
+	"modules": [
+		{
+			"moduleId": "MMQET",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMY",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cuentas",
+	"subModuleId": "SSMMY"
+}
